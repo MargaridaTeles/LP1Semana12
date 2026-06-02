@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="HowManyOfThisType/HowManyOfThisType.csproj" />
+  <Project Path="JustLikeACollection/JustLikeACollection.csproj" />
   <Project Path="MyEnumerable/MyEnumerable.csproj" />
   <Project Path="MyGenericClass/MyGenericClass.csproj" />
   <Project Path="TheyCameBefore/TheyCameBefore.csproj" />
