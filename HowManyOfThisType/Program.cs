@@ -31,6 +31,8 @@ namespace HowManyOfThisType
             Console.WriteLine($"string: {Checker.HowManyOfType<string>(items)}");
             Console.WriteLine($"byte  : {Checker.HowManyOfType<byte>(items)}");
 
+            Console.WriteLine("Merci d’utiliser ce programme!");
+
             // Expected output
             // int   : 2
             // float : 1
