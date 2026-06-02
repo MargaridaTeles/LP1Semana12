@@ -30,8 +30,8 @@ namespace HowManyOfThisType
             Console.WriteLine($"bool  : {Checker.HowManyOfType<bool>(items)}");
             Console.WriteLine($"string: {Checker.HowManyOfType<string>(items)}");
             Console.WriteLine($"byte  : {Checker.HowManyOfType<byte>(items)}");
-
-            Console.WriteLine("Merci d’utiliser ce programme!");
+            
+            Console.WriteLine("Thank you for using this program!");
 
             // Expected output
             // int   : 2
